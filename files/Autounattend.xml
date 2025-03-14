@@ -129,19 +129,19 @@
             </OOBE>
             <UserAccounts>
                 <AdministratorPassword>
-                    <Value>vagrant</Value>
+                    <Value>admin2675</Value>
                     <PlainText>true</PlainText>
                 </AdministratorPassword>
                 <LocalAccounts>
                     <LocalAccount wcm:action="add">
                         <Password>
-                            <Value>vagrant</Value>
+                            <Value>admin2675</Value>
                             <PlainText>true</PlainText>
                         </Password>
                         <Group>administrators</Group>
-                        <DisplayName>Vagrant</DisplayName>
-                        <Name>vagrant</Name>
-                        <Description>Vagrant User</Description>
+                        <DisplayName>Prasen</DisplayName>
+                        <Name>prasen</Name>
+                        <Description>Admin User</Description>
                     </LocalAccount>
                 </LocalAccounts>
             </UserAccounts>
